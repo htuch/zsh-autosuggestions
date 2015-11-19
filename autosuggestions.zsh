@@ -32,7 +32,7 @@ ZLE_AUTOSUGGEST_SUSPEND_WIDGETS=(
 	history-search-forward history-search-backward up-line-or-history
 	history-beginning-search-forward history-beginning-search-backward
 	down-line-or-history history-substring-search-up history-substring-search-down
-	backward-kill-word
+	backward-kill-word fzf-completion
 )
 
 ZLE_AUTOSUGGEST_COMPLETION_WIDGETS=(
